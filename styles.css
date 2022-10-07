@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+}
+h1 {
+  margin: 0;
+  color: #f9faf8;
+  font-weight: 800;
+  font-size: 48px;
+  margin: 0;
+}
+h2 {
+  color: #1f2937;
+  font-size: 36px;
+  font-weight: 800;
+}
+header {
+  background-color: #1f2937;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 100px 50px;
+}
+.headerLogo {
+  color: #f9faf8;
+  font-size: 24px;
+  margin: 0;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+a {
+  color: #e5e7eb;
+  font-size: 18px;
+  text-decoration: none;
+}
+button {
+  background-color: #3882f6;
+  border-radius: 4px;
+}
+p {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+.quoteSection {
+  background-color: #e5e7eb;
+}
+.quoteText {
+  color: #1f2937;
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 300;
+}
+.firstSection {
+  background-color: #1f2937;
+  padding: 25px 100px 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.classOne {
+  max-width: 300px;
+}
+.placeHolder {
+  background-color: rgb(158, 158, 158);
+  display: flex;
+  align-items: center;
+  padding: 0 200px;
+  text-align: center;
+  margin: 0;
+}
